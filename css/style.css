@@ -1,11 +1,4 @@
-h1 {
+body {
     text-align: center;
-}
-
-.img {
-    margin: 0 auto;
-    background-image: url('../img/vue.png');
-    height: 400px;
-    width: 400px;
 }
 
